@@ -6,8 +6,8 @@ A collection of Exploratory Data Analysis notebooks on real-world datasets using
 
 | Project | Dataset | Records | Notebook |
 |---|---|---|---|
-| Superstore Sales Analysis | Sample Superstore | 9,994 | [View](./Superstore-EDA/) |
-| Zomato Bangalore Analysis | Zomato Bangalore | 51,000+ | [View](./Zomato-EDA/) |
+| Superstore Sales Analysis | Sample Superstore | 9,994 | [View](./Superstore%20dataset%20EDA/) |
+| Zomato Bangalore Analysis | Zomato Bangalore | 51,000+ | [View](./Zomato%20EDA/) |
 
 ## Tools Used
 - Python, Pandas, NumPy
